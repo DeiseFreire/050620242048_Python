@@ -1,3 +1,5 @@
+[![Replit](https://img.shields.io/badge/Replit-F26207.svg?style=for-the-badge&logo=Replit&logoColor=white)](https://replit.com/@DeiseFreire2022/050620242048Python)
+
 ## :two_hearts: Lê dois números inteiros e imprime a soma. Antes do resultado aparece a mensagem: Soma. 
 
 **Descrição:**
@@ -37,4 +39,7 @@ Soma:
 - Este programa assume que o usuário digitará entradas válidas (números inteiros).
 - O programa pode ser facilmente modificado para lidar com outros tipos de números (por exemplo, floats) ou para realizar outras operações matemáticas.
 
-![brazil](https://github.com/pedromxavier/flag-badges/raw/main/badges/BR.svg)
+![brazil](https://github.com/pedromxavier/flag-badges/raw/main/badges/BR.svg) 
+
+## :two_hearts: Badges
+[![python](https://img.shields.io/badge/Python-3.9-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)  [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
